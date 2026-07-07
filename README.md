@@ -1,13 +1,8 @@
 # PoPArt: Pose Estimation & Style Classification in Artworks
 
-> **⚠️ Work in Progress** — This project is under active development. Code, model checkpoints, and results are experimental and subject to change.
+**Work in Progress** — This project is under active development. Code, model checkpoints, and results are experimental and subject to change.
 
 Deep learning pipelines for detecting human poses and classifying artistic style in a dataset of paintings, using a custom COCO-style annotated dataset ("PoPArt").
-
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
-![Torchvision](https://img.shields.io/badge/Torchvision-Models-orange)
-![Status](https://img.shields.io/badge/status-WIP-yellow)
 
 ## Table of Contents
 
